@@ -6,7 +6,7 @@ public class Driver {
 		Dog dog1 = new Dog("woof", "Tom");
 		Animal animal = new Animal("Cat", "Black", 5, 30, dog1);
 		System.out.println(animal.toString());
-		System.out.println(dog1.toString());
+		//System.out.println(dog1.toString());
 		System.out.println("from Sukanya's branch");
 	}
 
